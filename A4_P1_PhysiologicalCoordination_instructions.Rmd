@@ -1,6 +1,6 @@
 ---
 title: "Assignment 4 - Heart rate, respiration and interpersonal coordination"
-author: "Riccardo Fusaroli"
+author: "Daniel, Jesper, Pernille KJ and Astrid"
 date: "August 20, 2019"
 output: html_document
 ---
